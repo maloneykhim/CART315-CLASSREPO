@@ -10,7 +10,6 @@ I followed a tutorial online from YouTube (https://youtu.be/jyXZ3RVe5as?si=P3pzB
 
 ### Stage 3: Shmup Remix
 
-[![Bug Bites Video](https://img.youtube.com/vi/JLMbpiywVxQ/maxresdefault.jpg)]
 (https://www.youtube.com/watch?v=1HujyxbqE8g&ab_channel=MaloneyKhim)
 
 Mollika and I teamed up for the last stage of this project. We followed a tutorial on Udemy (https://concordia.udemy.com/course/unitycourse/learn/ )
