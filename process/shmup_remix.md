@@ -10,7 +10,9 @@ I followed a tutorial online from YouTube (https://youtu.be/jyXZ3RVe5as?si=P3pzB
 
 ### Stage 3: Shmup Remix
 
-(https://www.youtube.com/watch?v=1HujyxbqE8g&ab_channel=MaloneyKhim)
+
+[![Video](https://img.youtube.com/vi/jXnoFqcAkQA/maxresdefault.jpg)](https://www.youtube.com/watch?v=1HujyxbqE8g&ab_channel=MaloneyKhim)
+
 
 Mollika and I teamed up for the last stage of this project. We followed a tutorial on Udemy (https://concordia.udemy.com/course/unitycourse/learn/ )
 on how to create a Laser Defender Game, but we completely changed the visual and audio of our game and named it Bug Bites. We went with a nature theme with our player character being a frog. The frog is trying to eat bugs by killing them with his laser saliva, but the insects are also defending themselves by trying to kill him with their own laser attacks. Before starting to code, we created the assets on Photoshop and Piskel for a pixel art aesthetic. Then, we downloaded the sound effects and background music from OpenGameArt.org (https://opengameart.org/content/forest) and Kenney.nl(https://www.kenney.nl/assets/impact-sounds). Our game is meant to be played on a phone ( with a 9:16 format) or an Apple iPhone SE simulator on Unity.
