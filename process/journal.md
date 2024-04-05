@@ -152,3 +152,12 @@ Link to images: https://docs.google.com/document/d/1uJtI64Q19tT88xK-2nRSmO_MT7wg
 
 - https://concordia.udemy.com/course/make-games-without-code-unity-visual-scripting/learn/lecture/22993824#overview
 
+## Week 9 - Prototype 3
+
+I did more art in Aseprite for our game, this time, it's floor tiles and the items the main character can find. I also had to look at a lot of references to draw the objects. It was a challenge to translate all the details of the real treasures into pixel art. We finally decided to go with C# for our project instead of visual scripting because it is something we're supposed to learn this semester. 
+
+We decided to follow the Tilevania tutorial in this Udemy course and will modify quite a few things to make it fit our game concept. For example our character will not attack the enemy since it's more a "stealth" game than a rpg game.
+
+Link to images: https://docs.google.com/document/d/1uJtI64Q19tT88xK-2nRSmO_MT7wgQTTkJmqPPh_q9TU/edit?usp=sharing
+
+Link to udemy tutorial: https://concordia.udemy.com/course/unitycourse/learn/lecture/28740512#overview
