@@ -154,9 +154,15 @@ Link to images: https://docs.google.com/document/d/1uJtI64Q19tT88xK-2nRSmO_MT7wg
 
 ## Week 9 - Prototype 3
 
-I did more art in Aseprite for our game, this time, it's floor tiles and the items the main character can find. I also had to look at a lot of references to draw the objects. It was a challenge to translate all the details of the real treasures into pixel art. We finally decided to go with C# for our project instead of visual scripting because it is something we're supposed to learn this semester. 
+I did more art in Aseprite for our game, this time, it's floor tiles and the items the main character can find. I also had to look at a lot of references to draw the objects. It was a challenge to translate all the details of the real treasures into pixel art. The only art asset we need to do is the background of the game and the UI. We've also decided to speed up our process by using a few free assets from the Udemy course and the internet.
+
+We finally decided to go with C# for our project instead of visual scripting because it is something we're supposed to learn this semester. 
 
 We decided to follow the Tilevania tutorial in this Udemy course and will modify quite a few things to make it fit our game concept. For example our character will not attack the enemy since it's more a "stealth" game than a rpg game.
+
+Link to assets used: https://miguelsgp.itch.io/free-tileset-dungeon
+https://craftpix.net/freebies/free-simple-platformer-game-kit-pixel-art/?num=1&count=841&sq=art%20interior&pos=14
+
 
 Link to images: https://docs.google.com/document/d/1uJtI64Q19tT88xK-2nRSmO_MT7wgQTTkJmqPPh_q9TU/edit?usp=sharing
 
