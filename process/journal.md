@@ -167,3 +167,19 @@ https://craftpix.net/freebies/free-simple-platformer-game-kit-pixel-art/?num=1&c
 Link to images: https://docs.google.com/document/d/1uJtI64Q19tT88xK-2nRSmO_MT7wgQTTkJmqPPh_q9TU/edit?usp=sharing
 
 Link to udemy tutorial: https://concordia.udemy.com/course/unitycourse/learn/lecture/28740512#overview
+
+## Week 10 - Prototype 4
+
+This week Mollika and I focused more on working on Unity. We coded in alternance and I also did a few of the background tile assets. For my part, I drew the ladder tile, the window tiles, the wall tiles and the security laser tiles. There were some issues with the sizing of some of our previous sprites so I had to reupload them in smaller size. Unfortunately, we had a massive bug with the cinemachine collider, which made our player character flash and the background tiles blurry while the camera was moving all the over the place so we had to skip a few parts of the tutorial related to the camera except for the first cinemachine tutorial (88). Also, Molly's github had a weird issue where there were conflicts everywhere in her unity file so we had to create a new branch called "alternate-version" from a previous commit so she could repull her repository. So far, we did everything up to the actual interactions between our character and the artifacts/obstacles.
+
+Link to images: https://docs.google.com/document/d/1uJtI64Q19tT88xK-2nRSmO_MT7wgQTTkJmqPPh_q9TU/edit?usp=sharing
+
+Stuff that needs to be done before the make-up week:
+-Finish the main code of the game
+-Main menu of the game
+-UI of the game
+
+Stuff that would be nice to have done before the make-up week but not essential:
+-Music & SFX
+-Introduction scene explaining the story of the game and giving more context
+-Ghost enemies
