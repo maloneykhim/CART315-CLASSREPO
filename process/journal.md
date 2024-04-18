@@ -183,3 +183,22 @@ Stuff that would be nice to have done before the make-up week but not essential:
 -Music & SFX
 -Introduction scene explaining the story of the game and giving more context
 -Ghost enemies
+
+
+## Week 11 - Final prototype
+
+Our goal this week was to have a fully functional game even though we'll probably have to skip on some more cosmetic elements of the game. 
+
+After Molly made the code of the enemies work (security guards walking back and forth and laser flashing on and off), I worked on finalising the map layout of the game, placing items such as the background tiles, the artifacts, the security guards/security lasers and then testing the game to see if it is beatable. If there were issues where the player gets stuck, I would try to move around the tiles to create a balance between difficulty and fun. Also I drew a final pixel art tile set: a pillar, and added it a few places in the museum. It looks especially good with the lighting effect that Molly added, really adds some atmosphere!
+
+I also coded the "pickup" of the artifacts and the scoring/lives of the game. Basically, the player has three attempts to get the most artifacts possible. The further an artifact is situated on the map, the more points it gives. If they lose all their lives, the player restarts the game. I also added a sound effect to the artifact pickup as well as a background music to the game. 
+
+Furthermore, I made my little sister, someone completly uninvolved in the creation of the game, play it to get her comments. She was a bit confused by what artifacts we had to pick up but found it quite fun in general. After receiving the criticism from last week's prototype presentation, we wanted to add a clearer story context to the game as well as some instructions/introduction about what artifact to pick up, but because of the time crunch, we didn't have the opportunity to add them. We also wanted to add some more sound effects like the walking, the jumping, the climbing, the laser hitting but again, I didn't have the time to add them. Perhaps we'll work on these during the summer break? 
+
+All in all, it was a challenging, yet rewarding project, we had tons of issues with Github but we also learned a lot about Unity (C# language), drawing pixel art and the ideation/design part of a game. We are proud of our game and will probably add it to our portfolio after it's been more refined!
+
+Link to images: https://docs.google.com/document/d/1uJtI64Q19tT88xK-2nRSmO_MT7wgQTTkJmqPPh_q9TU/edit?usp=sharing
+Link to sound effect: https://mixkit.co/free-sound-effects/game/ (Video game treasure)
+Link to background music: https://pixabay.com/music/search/ambition/?pagi=2 (Ambition to steal)
+
+
